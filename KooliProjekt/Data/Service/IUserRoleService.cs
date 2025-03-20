@@ -1,4 +1,5 @@
 ﻿using KooliProjekt.Data;
+
 namespace KooliProjekt.Service
 {
     public interface IUserRoleService
